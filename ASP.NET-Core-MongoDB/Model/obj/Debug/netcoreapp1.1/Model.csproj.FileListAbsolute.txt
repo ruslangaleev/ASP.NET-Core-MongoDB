@@ -1,0 +1,4 @@
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\Model\bin\Debug\netcoreapp1.1\Model.deps.json
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\Model\bin\Debug\netcoreapp1.1\Model.dll
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\Model\obj\Debug\netcoreapp1.1\Model.csprojResolveAssemblyReference.cache
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\Model\obj\Debug\netcoreapp1.1\Model.AssemblyInfo.cs
