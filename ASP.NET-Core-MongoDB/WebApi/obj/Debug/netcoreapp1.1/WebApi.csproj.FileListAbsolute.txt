@@ -1,0 +1,15 @@
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\WebApi\bin\Debug\netcoreapp1.1\WebApi.deps.json
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\WebApi\bin\Debug\netcoreapp1.1\WebApi.runtimeconfig.json
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\WebApi\bin\Debug\netcoreapp1.1\WebApi.runtimeconfig.dev.json
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\WebApi\obj\Debug\netcoreapp1.1\WebApi.csprojResolveAssemblyReference.cache
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\WebApi\obj\Debug\netcoreapp1.1\WebApi.AssemblyInfo.cs
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\WebApi\bin\Debug\netcoreapp1.1\WebApi.dll
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\WebApi\bin\Debug\netcoreapp1.1\WebApi.pdb
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\WebApi\bin\Debug\netcoreapp1.1\Data.dll
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\WebApi\bin\Debug\netcoreapp1.1\Model.dll
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\WebApi\bin\Debug\netcoreapp1.1\Service.dll
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\WebApi\bin\Debug\netcoreapp1.1\Service.pdb
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\WebApi\bin\Debug\netcoreapp1.1\Data.pdb
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\WebApi\bin\Debug\netcoreapp1.1\Model.pdb
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\WebApi\obj\Debug\netcoreapp1.1\WebApi.dll
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\WebApi\obj\Debug\netcoreapp1.1\WebApi.pdb

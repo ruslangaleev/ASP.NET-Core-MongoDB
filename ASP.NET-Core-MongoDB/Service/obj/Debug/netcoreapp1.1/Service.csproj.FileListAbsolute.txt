@@ -1,0 +1,11 @@
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\Service\bin\Debug\netcoreapp1.1\Service.deps.json
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\Service\bin\Debug\netcoreapp1.1\Service.dll
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\Service\bin\Debug\netcoreapp1.1\Service.pdb
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\Service\bin\Debug\netcoreapp1.1\Data.dll
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\Service\bin\Debug\netcoreapp1.1\Model.dll
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\Service\bin\Debug\netcoreapp1.1\Data.pdb
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\Service\bin\Debug\netcoreapp1.1\Model.pdb
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\Service\obj\Debug\netcoreapp1.1\Service.csprojResolveAssemblyReference.cache
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\Service\obj\Debug\netcoreapp1.1\Service.AssemblyInfo.cs
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\Service\obj\Debug\netcoreapp1.1\Service.dll
+D:\Projects\ASP.NET-Core-MongoDB\ASP.NET-Core-MongoDB\Service\obj\Debug\netcoreapp1.1\Service.pdb

@@ -9,6 +9,7 @@
       "model/1.0.0": {
         "dependencies": {
           "MongoDB.Driver": "2.4.4",
+          "MongoDB.Driver.Core": "2.4.4",
           "MongoDB.Driver.GridFS": "2.4.4"
         },
         "runtime": {

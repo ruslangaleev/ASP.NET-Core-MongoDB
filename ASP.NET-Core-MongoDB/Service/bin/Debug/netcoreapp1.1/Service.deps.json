@@ -6,13 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v1.1": {
-      "data/1.0.0": {
+      "service/1.0.0": {
         "dependencies": {
-          "Microsoft.Extensions.Options": "2.0.0-preview1-final",
-          "Model": "1.0.0"
+          "Data": "1.0.0"
         },
         "runtime": {
-          "Data.dll": {}
+          "Service.dll": {}
         }
       },
       "microsoft.extensions.dependencyinjection.abstractions/2.0.0-preview1-final": {
@@ -185,6 +184,15 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "data/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Options": "2.0.0-preview1-final",
+          "Model": "1.0.0"
+        },
+        "runtime": {
+          "Data.dll": {}
+        }
+      },
       "model/1.0.0": {
         "dependencies": {
           "MongoDB.Driver": "2.4.4",
@@ -198,7 +206,7 @@
     }
   },
   "libraries": {
-    "data/1.0.0": {
+    "service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -356,6 +364,11 @@
       "sha512": "sha512-5zJ0XDxAIg8iy+t4aMnQAu0MqVbqyvfoUVl1yDV61xdo3Vth45oA2FoY4pPkxYAH5f8ixpmTqXeEIya95x0aCQ==",
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
+    },
+    "data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "model/1.0.0": {
       "type": "project",
