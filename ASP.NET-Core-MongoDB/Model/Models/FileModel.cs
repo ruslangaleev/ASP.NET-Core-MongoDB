@@ -9,7 +9,10 @@ namespace Model.Models
     public class FileModel
     {
         [BsonRepresentation(BsonType.ObjectId)]
-        public string IdFileInfo { get; set; }
+        public string IdInfo { get; set; }
+
+        [BsonIgnore]
+        public string FileName { get; set; }
 
         public DateTime UpdatedOn { get; set; } = DateTime.Now;
 
@@ -18,9 +21,9 @@ namespace Model.Models
         // Содержимое FSGrid:
 
         [BsonRepresentation(BsonType.ObjectId)]
-        public string IdFileBody { get; set; }
+        public string IdSource { get; set; }
 
         [BsonIgnore]
-        public byte[] FileBody { get; set; }
+        public byte[] Source { get; set; }
     }
 }
